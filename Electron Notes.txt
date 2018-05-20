@@ -1,0 +1,41 @@
+About Electron
+Electron is an open source library developed by GitHub for building cross-platform desktop applications with HTML, CSS, and JavaScript. Electron accomplishes this by combining Chromium and Node.js into a single runtime and apps can be packaged for Mac, Windows, and Linux.
+
+Electron began in 2013 as the framework on which Atom, GitHub's hackable text editor, would be built. The two were open sourced in the Spring of 2014.
+
+
+Chromium
+
+Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web. This site contains design documents, architecture overviews, testing information, and more to help you learn to build and work with the Chromium source code.
+
+Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
+
+
+Introduction
+
+V8 is Google’s open source high-performance JavaScript engine, written in C++ and used in Google Chrome, the open source browser from Google, and in Node.js, among others. It implements ECMAScript as specified in ECMA-262, and runs on Windows 7 or later, macOS 10.5+, and Linux systems that use IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application. 
+
+
+Use npm to install, share, and distribute code; manage dependencies in your projects; 
+Find
+Libraries like jQuery, Bootstrap, React, and Angular, and components from frameworks such as Ember.
+Discover
+Packages for mobile, IoT, front end, back end, robotics… everything you need to start building amazing things.
+Build
+Assemble packages like building blocks to quickly develop awesome new projects.
+
+Atom
+An Open-Source Text Editor
+We see Atom as a perfect complement to GitHub's primary mission of building better software by working together. Atom is a long-term investment, and GitHub will continue to support its development with a dedicated team going forward
+
+
+
+Better encapsulation of each tab google chrome
+that is the point her e
+
+Electron work identically  how this browser does
+surprise under the heared 
+electron make use of the chromeium open source project which is the exactly chrome code base 
+that the google chorme browser based upon as well so when we work with electron all the same rules 
+conventions as how chrome works apply directly as well
